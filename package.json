@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "qrcode-generator",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://czinaaz.github.io/qrcode-generator/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://czinaaz.github.io/qrcode-generator.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Ivan Rudenko <rudenko.ivan81@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://czinaaz.github.io/qrcode-generator/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
